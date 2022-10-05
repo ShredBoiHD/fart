@@ -534,7 +534,7 @@ class PlayState extends MusicBeatState
 				add(bg);
 
 				if (SONG.song.toLowerCase() == 'furnace')
-					Playstate.SONG.arrowskin = '3DNOTESALT_assets'
+					Playstate.SONG.arrowskin = '3DNOTESALT_assets';
 
 			case 'bamberry':
 				screenshader = new Shaders.GlitchEffect();
