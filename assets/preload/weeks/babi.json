@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Gartic", "babi", [150, 150, 150]],
+		["Samsung", "babi", [100, 180, 240]],
+		["Lmao", "babi", [0, 255, 0]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Babi week",
+	"weekBefore": "tutorial",
+	"weekName": "Babi",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

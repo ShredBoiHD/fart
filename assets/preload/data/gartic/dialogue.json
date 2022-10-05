@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo is this the bathroom"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It is???"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright where"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no i meant beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.075,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You a robot???"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Dayummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am bf fnf"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Really? I never noticed!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "In that case wanna rap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah"
+		},
+		{
+			"sound": "",
+			"speed": 0.00500000000000001,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok........................................................................l.l.lYo ................................"
+		}
+	]
+}

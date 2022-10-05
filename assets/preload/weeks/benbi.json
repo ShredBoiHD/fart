@@ -1,0 +1,43 @@
+{
+	"storyName": "Benbi week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spectral",
+			"benbi",
+			[
+				255,
+				0,
+				150
+			]
+		],
+		[
+			"Mirage",
+			"benbi",
+			[
+				100,
+				0,
+				240
+			]
+		],
+		[
+			"Demoralizer",
+			"benbi",
+			[
+				0,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Benbi"
+}

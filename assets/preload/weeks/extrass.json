@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"raspberry",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"disposition",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"argument",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Extra Songs",
+	"weekName": "Extra Songs",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

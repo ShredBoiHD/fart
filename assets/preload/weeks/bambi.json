@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Blocked", "bambi", [0, 255, 0]],
+		["Corn-Theft-Remix", "bambi", [0, 240, 0]],
+		["Bambomania", "bambi", [0, 230, 0]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Bambi week",
+	"weekBefore": "tutorial",
+	"weekName": "Bambi",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

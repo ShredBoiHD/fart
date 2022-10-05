@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="logoBumpin.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logoBumpin0000" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0001" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0002" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0003" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0004" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0005" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0006" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0007" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0008" x="929" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0009" x="1828" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0010" x="2727" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0011" x="30" y="675" width="869" height="615"/>
+	<SubTexture name="logoBumpin0012" x="929" y="675" width="869" height="615"/>
+	<SubTexture name="logoBumpin0013" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0014" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0015" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0016" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0017" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0018" x="1828" y="675" width="869" height="615"/>
+	<SubTexture name="logoBumpin0019" x="2727" y="675" width="869" height="615"/>
+	<SubTexture name="logoBumpin0020" x="30" y="1320" width="869" height="615"/>
+	<SubTexture name="logoBumpin0021" x="929" y="1320" width="869" height="615"/>
+	<SubTexture name="logoBumpin0022" x="1828" y="1320" width="869" height="615"/>
+	<SubTexture name="logoBumpin0023" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0024" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0025" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0026" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0027" x="30" y="30" width="869" height="615"/>
+	<SubTexture name="logoBumpin0028" x="30" y="30" width="869" height="615"/>
+</TextureAtlas>

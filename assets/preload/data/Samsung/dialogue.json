@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "naw you lost bruh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "babiTalking",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok, wanna rap again"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "k"
+		}
+	]
+}

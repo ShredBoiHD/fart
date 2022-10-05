@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bee bop buu ba bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap bee boo bap be boo bap bee beep bo go bo a e ay bee eyyyy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bapeebo bae boo fresh - friday night funkin ost bap"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(insert crying laughing emoji here)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "...Well i can't translate all of that but what i might've understood was that he was calling you trash but in his language.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "For real?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"sound": "",
+			"speed": 0.135,
+			"portrait": "benbi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "Yeah, we'll see about that, blue haired midget."
+		}
+	]
+}

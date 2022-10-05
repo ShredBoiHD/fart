@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wow..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That was cool!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bopa bep bai boo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bopee bae boe a e i o u ba"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He's saying *That was nice, Wanna do it again?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bae!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oooh... I dont know.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(checks the time)"
+		},
+		{
+			"sound": "",
+			"speed": 0,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ah, its only 3 pm structural time! (that would be 6 pm irl time as a matter of fact)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yeah!! Lets go for another song!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "This one's my favorite."
+		}
+	]
+}

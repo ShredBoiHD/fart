@@ -1,0 +1,108 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "(On a phone call) And thats how i became friends with him, haha!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "Well, i'd better get going now, bye!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "(Phone call ends)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "yoo beep boop",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "....",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "What?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "beep boop bropa",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Come again?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "What he's trying to say is..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "*Hey there, wanna rap together??*",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh ok, thanks for translating!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "Well i guess i know how to rap..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah sure lets do it!!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "benbi"
+		}
+	]
+}

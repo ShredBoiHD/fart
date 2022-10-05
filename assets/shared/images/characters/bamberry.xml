@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bamberry.png"><SubTexture name="bamberry down0000" x="0" y="1089" width="340" height="502" frameX="-171" frameY="-159" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry down0001" x="1399" y="0" width="347" height="503" frameX="-199" frameY="-168" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry down0002" x="485" y="1591" width="383" height="487" frameX="-187" frameY="-187" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry down0003" x="2418" y="0" width="406" height="465" frameX="-192" frameY="-219" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry down0004" x="485" y="1591" width="383" height="487" frameX="-187" frameY="-187" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry down0005" x="1399" y="0" width="347" height="503" frameX="-199" frameY="-168" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0000" x="340" y="1089" width="340" height="501" frameX="-148" frameY="-139" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0001" x="1399" y="503" width="335" height="503" frameX="-185" frameY="-154" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0002" x="1746" y="0" width="335" height="497" frameX="-207" frameY="-164" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0003" x="2081" y="0" width="337" height="491" frameX="-244" frameY="-186" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0004" x="2081" y="0" width="337" height="491" frameX="-244" frameY="-186" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0005" x="1746" y="0" width="335" height="497" frameX="-207" frameY="-164" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0006" x="1399" y="503" width="335" height="503" frameX="-185" frameY="-154" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry idle0007" x="340" y="1089" width="340" height="501" frameX="-148" frameY="-139" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0000" x="465" y="578" width="428" height="505" frameX="-98" frameY="-145" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0001" x="893" y="578" width="447" height="505" frameX="-47" frameY="-156" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0002" x="0" y="578" width="465" height="511" frameX="-23" frameY="-159" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0003" x="680" y="1089" width="468" height="500" frameX="-6" frameY="-175" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0004" x="0" y="578" width="465" height="511" frameX="-23" frameY="-159" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry left0005" x="893" y="578" width="447" height="505" frameX="-47" frameY="-156" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0000" x="0" y="1591" width="485" height="491" frameX="-77" frameY="-186" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0001" x="1148" y="1089" width="553" height="499" frameX="-54" frameY="-175" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0002" x="868" y="1591" width="595" height="483" frameX="-41" frameY="-182" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0003" x="1463" y="1591" width="580" height="474" frameX="-84" frameY="-186" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0004" x="868" y="1591" width="595" height="483" frameX="-41" frameY="-182" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry right0005" x="1148" y="1089" width="553" height="499" frameX="-54" frameY="-175" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0000" x="1059" y="0" width="340" height="528" frameX="-135" frameY="-141" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0001" x="714" y="0" width="345" height="548" frameX="-147" frameY="-110" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0002" x="363" y="0" width="351" height="556" frameX="-155" frameY="-81" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0003" x="0" y="0" width="363" height="578" frameX="-164" frameY="-66" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0004" x="363" y="0" width="351" height="556" frameX="-155" frameY="-81" frameWidth="680" frameHeight="790" />
+<SubTexture name="bamberry up0005" x="714" y="0" width="345" height="548" frameX="-147" frameY="-110" frameWidth="680" frameHeight="790" />
+</TextureAtlas>
