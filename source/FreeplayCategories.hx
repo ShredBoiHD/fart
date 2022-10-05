@@ -131,9 +131,9 @@ class FreeplayCategories extends MusicBeatState {
                     MusicBeatState.switchState(new MainMenuState());
                 }
         if (accepted) {
-            FlxTween.tween(theText, {x: -theText.width}, 0.5, {ease: FlxEase.quadIn});
-            FlxTween.tween(theText2, {x: FlxG.width + 300}, 0.5, {ease: FlxEase.quadIn});
-            FlxTween.tween(buttonGroup.members[curSelected], {y: FlxG.height}, 0.5, {ease: FlxEase.quadIn, onComplete: function (twn:FlxTween) {
+            FlxTween.tween(theText, {x: -theText.width}, 0.3, {ease: FlxEase.backIn});
+            FlxTween.tween(theText2, {x: FlxG.width + 300}, 0.3, {ease: FlxEase.backIn});
+            FlxTween.tween(buttonGroup.members[curSelected], {"scale.x": 2, "scale.y": 1.8, alpha: 0}, 0.5, {ease: FlxEase.quadOut, onComplete: function (twn:FlxTween) {
                 FlxTransitionableState.skipNextTransIn = true;
                 FlxTransitionableState.skipNextTransOut = true;
                 trace(curSelected);
@@ -146,10 +146,13 @@ class FreeplayCategories extends MusicBeatState {
         for (item in buttonGroup.members) {
             item.x = FlxMath.lerp(item.x, (FlxG.width / 2 - item.width / 2) + ((item.ID - curSelected) * FlxG.width), lerpVal);
             item.y = FlxMath.lerp(item.y, (FlxG.height / 2 - item.width / 2) + (Math.abs((item.ID - curSelected) * (item.ID - curSelected) / 2) * 700), lerpVal);
+
             if (item.ID != curSelected) {
                 item.alpha = FlxMath.lerp(item.alpha, 0.1, lerpVal);
+                item.angle = FlxMath.lerp(item.angle, 360, lerpVal);
             } else {
                 item.alpha = FlxMath.lerp(item.alpha, 1, lerpVal);
+                item.angle = FlxMath.lerp(item.angle, -360, lerpVal);
             }
         }
         super.update(elapsed);

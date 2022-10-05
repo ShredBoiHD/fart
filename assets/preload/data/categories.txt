@@ -1,2 +1,2 @@
 story:spectral,mirage,demoralizer,gartic,samsung,lmao,blocked,corn-theft-remix,bambomania:0x8FCE00:Main Story
-extras:raspberry,disposition,argument:0x8FCE00:Extra Songs
+extrass:raspberry,disposition,argument:0x8FCE00:Extra Songs
