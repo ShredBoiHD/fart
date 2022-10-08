@@ -423,6 +423,10 @@ class PlayState extends MusicBeatState
 			{
 				case 'plasmic' | 'mirage' | 'demoralizer':
 					curStage = 'benbi';
+				case 'roundabout' | 'insanity-remix':
+					curStage = 'dave';
+				case 'raspberry':
+					curStage = 'bamberryBackground';
 				case 'blocked' | 'corn-theft-remix' | 'bambomania':
 					curStage = 'farmDay';
 				case 'spookeez' | 'south' | 'monster':
@@ -509,7 +513,17 @@ class PlayState extends MusicBeatState
 				add(bg);
 
 				if (SONG.song.toLowerCase() == 'demoralizer')
-					PlayState.SONG.arrowSkin = '3DNOTE_assets';
+					PlayState.SONG.arrowSkin = '3DNOTESALT_assets';
+
+			case 'daveHouse':
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('dave/gates'));
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('dave/hills'));
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('dave/grass'));
+				var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('dave/sky'));
+				bg.scale.set(1.1, 1.3);
+				bg.screenCenter();
+				bg.shader = screenshader.shader;
+				add(bg);
 
 			case 'babi':
 				screenshader = new Shaders.GlitchEffect();
@@ -524,24 +538,29 @@ class PlayState extends MusicBeatState
 
 			case 'crystambi':
 				screenshader = new Shaders.GlitchEffect();
-				screenshader.waveAmplitude = 0.2;
-				screenshader.waveFrequency = 8;
-				screenshader.waveSpeed = 5;
+				screenshader.waveAmplitude = 4;
+				screenshader.waveFrequency = 3;
+				screenshader.waveSpeed = 2;
 
-				var bg:BGSprite = new BGSprite('extras/CrystambiBackground', -100, 0, 0.5, 0.5);
+				var bg:BGSprite = new BGSprite('bamberry/BG2', -100, 0, 0.5, 0.5);
 				bg.scale.set(1.4, 1.5);
 				bg.shader = screenshader.shader;
 				add(bg);
+				
 			case 'bamberry':
 				screenshader = new Shaders.GlitchEffect();
-				screenshader.waveAmplitude = 0.2;
-				screenshader.waveFrequency = 8;
-				screenshader.waveSpeed = 5;
+				screenshader.waveAmplitude = 0.6;
+				screenshader.waveFrequency = 5;
+				screenshader.waveSpeed = 2;
 
-				var bg:BGSprite = new BGSprite('extras/BamberryBackground', -100, 0, 0.5, 0.5);
-				bg.scale.set(1.4, 1.5);
+				var bg:BGSprite = new BGSprite('bamberry/BG', -100, 0, 0.5, 0.5);
+				trace('deez nut');
+				bg.scale.set(2.3, 2.2);
 				bg.shader = screenshader.shader;
 				add(bg);	
+
+				if (SONG.song.toLowerCase() == 'raspberry')
+					PlayState.SONG.arrowSkin = '3DNOTE_assets';
 
 			case 'farmDay':
 				{
@@ -2920,7 +2939,7 @@ class PlayState extends MusicBeatState
 			iconP1.swapOldIcon();
 		}*/
 		callOnLuas('onUpdate', [elapsed]);
-		if (curStage == 'benbi' || curStage == 'babi')
+		if (curStage == 'benbi' || curStage == 'babi' || curStage == 'bamberry')
 			screenshader.shader.uTime.value[0] += elapsed;
 
 		switch (curStage)
