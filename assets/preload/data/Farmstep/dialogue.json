@@ -1,0 +1,100 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(just on his phone)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yo!!beep bopa bopaoe opbopabeo"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What the hell?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "boop beebap (i want to rap battling)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "What why"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I thought i was done with you?? (insert skull emoji here) "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag beop bee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Actually.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Uh ok i guess"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "coolswag!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}

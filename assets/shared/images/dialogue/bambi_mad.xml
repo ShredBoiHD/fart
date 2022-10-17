@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bambi_mad.png"><SubTexture name="bambi_mad idle0000" x="0" y="0" width="235" height="268" frameX="0" frameY="0" frameWidth="235" frameHeight="268" />
+<SubTexture name="bambi_mad idle0001" x="0" y="268" width="235" height="268" frameX="0" frameY="0" frameWidth="235" frameHeight="268" />
+</TextureAtlas>

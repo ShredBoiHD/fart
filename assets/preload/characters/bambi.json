@@ -1,154 +1,133 @@
 {
 	"animations": [
 		{
-			"offsets": [
-				-9,
-				10
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT-loop",
-			"indices": [
-				12,
-				13,
-				14,
-				15
-			],
-			"name": "Dad Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				0,
-				27
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT-loop",
-			"indices": [
-				15,
-				16,
-				17,
-				18
-			],
-			"name": "Dad Sing Note RIGHT"
-		},
-		{
-			"offsets": [
-				-6,
-				50
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP-loop",
-			"indices": [
-				56,
-				57,
-				58,
-				59
-			],
-			"name": "Dad Sing Note UP"
-		},
-		{
 			"loop": false,
 			"offsets": [
-				140,
-				-100
+				0,
+				0
 			],
-			"anim": "hey",
+			"anim": "idle",
 			"fps": 24,
-			"name": "WhatYouKnowAboutRollingDownInTheDeep",
+			"name": "bambi idle",
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
-				0,
-				0
+				70,
+				6
 			],
-			"anim": "idle-loop",
-			"fps": 12,
-			"name": "Dave Idle",
-			"indices": [
-				11,
-				12,
-				13,
-				14
-			]
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bambi left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				-28
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bambi down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				36
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bambi up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bambi right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				23
+			],
+			"anim": "throw",
+			"fps": 24,
+			"name": "bambi throw",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				81
+			],
+			"anim": "phone",
+			"fps": 24,
+			"name": "bambi phone",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "bambi alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				4
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "bambi alt left",
+			"indices": []
 		},
 		{
 			"offsets": [
-				0,
-				0
+				98,
+				81
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "idle",
+			"anim": "hey",
 			"indices": [],
-			"name": "Idle"
-		},
-		{
-			"offsets": [
-				-4,
-				-6
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singLEFT",
-			"indices": [],
-			"name": "left"
-		},
-		{
-			"offsets": [
-				-20,
-				-50
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "down"
-		},
-		{
-			"offsets": [
-				-44,
-				-8
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "right"
-		},
-		{
-			"offsets": [
-				46,
-				1
-			],
-			"loop": true,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "up"
+			"name": "bambi phone"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/bambi",
+	"image": "characters/bambiremake",
 	"position": [
-		90,
+		140,
 		440
 	],
 	"healthicon": "bambi",
 	"flip_x": false,
 	"healthbar_colors": [
-		0,
-		215,
-		20
+		37,
+		191,
+		55
 	],
-	"healthbar_file": "bambi",
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 6.1,
-	"scale": 1.2
+	"scale": 1
 }

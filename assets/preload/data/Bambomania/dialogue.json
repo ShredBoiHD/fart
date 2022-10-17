@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bap boppin (bro said nothing)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep bae bpobpaobpe bpaobpob apboepab aepoi (bro your singing sounds like a manchild raging)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bap abpopaebapboaeb abpoepba poeapbopoaeb (like bro can you sing better next time frfr)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "excuse me"
+		}
+	]
+}

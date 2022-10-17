@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ok cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bep beae pbaoepoe bpobpaopboepoab (wanna rap again pls :>)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen kid i dont got time for your shenanigan-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "p"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wait i me- I MEAN beep bopab bapeopgoap bpaobpe bapoboe (ok )"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi_mad",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright whatever, fine ok sure one more song.."
+		}
+	]
+}
